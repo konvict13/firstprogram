@@ -1,2 +1,0 @@
-# firstprogram
-helloworld
